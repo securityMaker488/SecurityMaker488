@@ -1,110 +1,133 @@
 
 <div align="center">
 
-# Júlio César
+# Hey, I'm Júlio César 
 
-### Software Engineering · AI Engineering · Cybersecurity
+### Software Engineering • AI Engineering • Full Stack • Cybersecurity
 
 **Founder & Developer at I.See Technologies**
 
 Building intelligent, secure and scalable software.
 
-[![Website](https://img.shields.io/badge/I.See_Technologies-Website-C1121F?style=flat-square)](https://iseetechnologies.com.br/)
+[![Website](https://img.shields.io/badge/I.See_Technologies-Website-C1121F?style=for-the-badge)](https://iseetechnologies.com.br/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/securityMaker488)
 
 </div>
 
 ---
 
-### About Me
+## About Me
 
-I'm a Brazilian software developer focused on building
-intelligent applications, backend systems and secure
-software architectures.
+I'm a Brazilian software developer and founder of
+**I.See Technologies**, focused on engineering
+intelligent applications and secure digital systems.
 
-My work spans AI agents, computer vision, full stack
-development, systems programming and cybersecurity.
+My work combines software development, artificial
+intelligence, computer vision, infrastructure and
+cybersecurity.
 
-- Founder and developer at I.See Technologies
-- Technical background in Computer Science / IT
-- Building real-world software and AI solutions
-- Interested in AI Engineering and secure systems
+- Building AI-powered software and autonomous agents
+- Developing full stack and backend applications
+- Working with computer vision and systems programming
+- Exploring secure software architecture and AppSec
+- Based in Brazil | English C1
 
-### Core Tech Stack
+---
+
+## Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,rust,react,fastapi,postgres,linux,git&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,rust,html,css&theme=dark" />
 </p>
 
-### More Technologies
+### Frameworks & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,vite,tailwind&theme=dark" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,linux,debian,cloudflare,git&theme=dark" />
+</p>
+
+### Artificial Intelligence
+
+**Ollama · Local LLMs · AI Agents · RAG**
+
+**Computer Vision · DeepFace · FaceNet · YuNet**
 
 <details>
-<summary>Explore my full development ecosystem</summary>
+<summary><b>More Technologies & Tools</b></summary>
 
 <br>
 
-**Web & Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,vite,tailwind,threejs&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,sqlite,postgres,fastapi&theme=dark" />
-
-Fastify · SQLAlchemy · Alembic · REST APIs
-
-**AI & Computer Vision**
-
-Ollama · Local LLMs · RAG · AI Agents
-
-OpenCV · DeepFace · FaceNet · YuNet
-
-**Systems & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=debian,linux,cloudflare,git,github,windows&theme=dark" />
-
-JavaFX · Maven · QEMU/KVM
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,npm&theme=dark" />
+- **Backend:** Fastify, SQLAlchemy, Alembic, REST APIs
+- **Desktop:** JavaFX, Maven, jpackage
+- **Systems:** Rust, Cargo, QEMU/KVM
+- **Frontend:** GSAP, ScrollTrigger, Lenis
+- **Testing:** Playwright, automated testing
+- **Security Labs:** Kali Linux, Semgrep, YARA
+- **Development:** VS Code, IntelliJ IDEA, GitHub
 
 </details>
 
 ---
 
-### Projects
+## Featured Projects
 
-**I.See Agents — Multi-Agent AI Platform**
+### I.See Agents — Multi-Agent AI Platform
+AI platform with 12 specialized agents for
+educational and business workflows.
 
-12 specialized AI agents for educational and business
-workflows, with local LLM inference and RAG.
+**Focus:** LLMs, Ollama, RAG, prompt engineering
+and local AI infrastructure.
 
-**I.See Enterprise — Intelligent Monitoring**
+### I.See Enterprise — Intelligent Monitoring
+Intelligent monitoring platform combining backend
+engineering, desktop software and computer vision.
 
-Computer vision, backend services, desktop applications
-and native systems programming.
+**Stack:** Python, FastAPI, PostgreSQL, Java,
+JavaFX, Rust, DeepFace and FaceNet.
 
-**I.See Sentinel — Cybersecurity Engineering**
+### I.See Sentinel — Cybersecurity Platform
+Security engineering platform integrating analysis,
+evidence management and security workflows.
 
-Security analysis, evidence management, backend
-engineering and isolated security laboratories.
+**Stack:** TypeScript, React, Fastify, PostgreSQL
+and Rust.
 
-**TrackBus — Smart School Transportation**
-In future I.see transit
-Transportation management, backend APIs,
-routes and location tracking workflows.
+### TrackBus — Smart Transportation
+School transportation management application
+with route planning, backend APIs, vehicle
+management and location simulation.
 
-**AI Customer Service**
+**Stack:** Python, FastAPI, SQLAlchemy and SQLite.
 
-AI-powered customer service integration
-for the food service industry.
+### AI-Powered Customer Service
+AI integration for automated customer service
+workflows in the food service industry.
 
 ---
 
-### Let's Connect
+## I.See Technologies
+
+I develop intelligent digital solutions combining
+software engineering, AI and security by design.
 
 **Website:** https://iseetechnologies.com.br/
 
-**GitHub:** https://github.com/securityMaker488
+---
 
-**Email:** goldensla6@gmail.com
+<div align="center">
+
+### Let's Connect
+
+📧 goldensla6@gmail.com
+
+**Code. Intelligence. Security.**
+
+</div>
