@@ -72,7 +72,7 @@ JavaFX · Maven · QEMU/KVM
 
 ---
 
-### Featured Projects
+### Projects
 
 **I.See Agents — Multi-Agent AI Platform**
 
